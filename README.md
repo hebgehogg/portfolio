@@ -116,7 +116,7 @@ https://github.com/hebgehogg/Collapse
 https://github.com/hebgehogg/AIShooter  
 https://github.com/hebgehogg/GeometryCatcher  
 
-<a name="C# "><h2>C</h2></a>
+<a name="C"><h2>C#</h2></a>
 https://github.com/hebgehogg/Messages  
 https://github.com/hebgehogg/Zoo  
 https://github.com/hebgehogg/Explorer  
