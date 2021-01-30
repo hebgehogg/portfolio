@@ -137,4 +137,4 @@
 [R_project](https://github.com/hebgehogg/R_project)     
 
 <a name="Assembler"><h2>Assembler</h2></a>
-[ASM_Pascal](https://github.com/hebgehogg/ASM_Pascal)   
+[ASM_Pascal - ассемблерные вставки на Turbo Pascal](https://github.com/hebgehogg/ASM_Pascal)   
