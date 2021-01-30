@@ -7,7 +7,7 @@
 - тел: +7(950) 446-12-02
 - город: Пермь / Москва (учусь в МСК, готова к переезду)  
 - skype, discord: по запросу
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/hebgehog/
 - Telegram: @hebgehog
 - VK: @hebgehog
 - Instagram: @hebgehogg
