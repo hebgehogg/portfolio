@@ -119,22 +119,22 @@
 [GeometryCatcher - простая 2D игра](https://github.com/hebgehogg/GeometryCatcher)   
 
 <a name="C"><h2>C#</h2></a>
-https://github.com/hebgehogg/Messages  
-https://github.com/hebgehogg/Zoo  
-https://github.com/hebgehogg/Explorer  
-https://github.com/hebgehogg/TechnologicalPractice  
-https://github.com/hebgehogg/TheWarofThreads  
-https://github.com/hebgehogg/EntityProject  
-https://github.com/hebgehogg/TimetableXML  
+[Messages](https://github.com/hebgehogg/Messages)   
+[Zoo](https://github.com/hebgehogg/Zoo)   
+[Explorer](https://github.com/hebgehogg/Explorer)   
+[TechnologicalPractice](https://github.com/hebgehogg/TechnologicalPractice)   
+[TheWarofThreads](https://github.com/hebgehogg/TheWarofThreads)   
+[EntityProject](https://github.com/hebgehogg/EntityProject)   
+[TimetableXML](https://github.com/hebgehogg/TimetableXML)   
 
 <a name="Design"><h2>Design</h2></a>
-https://github.com/hebgehogg/DesignPortfolio  
+[DesignPortfolio](https://github.com/hebgehogg/DesignPortfolio)   
 
 <a name="Python"><h2>Python</h2></a>
-https://github.com/hebgehogg/CNN  
+[CNN](https://github.com/hebgehogg/CNN)   
 
 <a name="R"><h2>R</h2></a>
-https://github.com/hebgehogg/R_project  
+[R_project](https://github.com/hebgehogg/R_project)     
 
 <a name="Assembler"><h2>Assembler</h2></a>
-https://github.com/hebgehogg/ASM_Pascal  
+[ASM_Pascal](https://github.com/hebgehogg/ASM_Pascal)   
