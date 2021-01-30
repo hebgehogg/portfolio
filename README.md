@@ -115,7 +115,7 @@
 <a name="Game development"><h2>Game</h2></a>
 [NeonGame - платформер](https://github.com/hebgehogg/NeonGame)  
 [Collapse - командный проект с ИИ (сильно урощенный вариант CS GO)](https://github.com/hebgehogg/Collapse)  
-[AIShooter - небольшой шутер от 1 лица с простыми ИИ](https://github.com/hebgehogg/Collapse)  
+[AIShooter - небольшой шутер от 1 лица с простыми ИИ](https://github.com/hebgehogg/AIShooter)  
 [GeometryCatcher - простая 2D игра](https://github.com/hebgehogg/GeometryCatcher)   
 
 <a name="C"><h2>C#</h2></a>
