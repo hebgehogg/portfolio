@@ -121,7 +121,7 @@
 <a name="C"><h2>C#</h2></a>
 [Messages](https://github.com/hebgehogg/Messages)   
 [Zoo](https://github.com/hebgehogg/Zoo)   
-[Explorer](https://github.com/hebgehogg/Explorer)   
+[Explorer - проводник (тестовое задание в компанию Аэросфера)](https://github.com/hebgehogg/Explorer)   
 [TechnologicalPractice - технологическая практика за 2 курс](https://github.com/hebgehogg/TechnologicalPractice)   
 [TheWarofThreads - игра "the war of threads"](https://github.com/hebgehogg/TheWarofThreads)   
 [EntityProject - простой менеджер баз данных](https://github.com/hebgehogg/EntityProject)   
