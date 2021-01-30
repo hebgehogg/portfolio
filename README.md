@@ -128,7 +128,7 @@
 [TimetableXML](https://github.com/hebgehogg/TimetableXML)   
 
 <a name="Design"><h2>Design</h2></a>
-[DesignPortfolio](https://github.com/hebgehogg/DesignPortfolio)   
+[DesignPortfolio - примеры дизайн работ](https://github.com/hebgehogg/DesignPortfolio)   
 
 <a name="Python"><h2>Python</h2></a>
 [CNN - в файлах репозитория лежат примеры из Colaboratory](https://github.com/hebgehogg/CNN)   
