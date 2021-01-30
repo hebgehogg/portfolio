@@ -131,7 +131,7 @@
 [DesignPortfolio](https://github.com/hebgehogg/DesignPortfolio)   
 
 <a name="Python"><h2>Python</h2></a>
-[CNN](https://github.com/hebgehogg/CNN)   
+[CNN - в файлах репозитория лежат примеры из Colaboratory](https://github.com/hebgehogg/CNN)   
 
 <a name="R"><h2>R</h2></a>
 [R_project - примеры на R](https://github.com/hebgehogg/R_project)     
