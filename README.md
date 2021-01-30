@@ -20,7 +20,7 @@
 - VK: @hebgehog
 - Instagram: @hebgehogg
 
-<a name="General"><h2>General informationя</h2></a>
+<a name="General"><h2>General information</h2></a>
 Учусь в НИУ "Высшая школа экономики", Москва на 3 курсе по направлению программная инженерия  
 Пермь /Москва  
 Готова к перезду в МСК  
