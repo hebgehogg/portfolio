@@ -120,7 +120,7 @@
 
 <a name="C"><h2>C#</h2></a>
 [Messages](https://github.com/hebgehogg/Messages)   
-[Zoo](https://github.com/hebgehogg/Zoo)   
+[Zoo - этот проект демонстрирует базовые возможности C # на примере виртуального зоопарка.](https://github.com/hebgehogg/Zoo)   
 [Explorer - проводник (тестовое задание в компанию Аэросфера)](https://github.com/hebgehogg/Explorer)   
 [TechnologicalPractice - технологическая практика за 2 курс](https://github.com/hebgehogg/TechnologicalPractice)   
 [TheWarofThreads - игра "the war of threads"](https://github.com/hebgehogg/TheWarofThreads)   
