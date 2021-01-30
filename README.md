@@ -101,3 +101,38 @@
 9. Криптографические основы информационной безопасности - оценка 9/10 (отлично)
 
 <a name="Portfolio"><h1>Portfolio</h1></a>
+
+##### Содержание 
+[Game development](#Game)  
+[C#](#C)  
+[Design](#Design)  
+[Python](#Python)  
+[R](#R)  
+[Assembler](#Assembler)  
+
+<a name="Game development"><h2>Game</h2></a>
+https://github.com/hebgehogg/NeonGame  
+https://github.com/hebgehogg/Collapse  
+https://github.com/hebgehogg/AIShooter  
+https://github.com/hebgehogg/GeometryCatcher  
+
+<a name="C#"><h2>C</h2></a>
+https://github.com/hebgehogg/Messages  
+https://github.com/hebgehogg/Zoo  
+https://github.com/hebgehogg/Explorer  
+https://github.com/hebgehogg/TechnologicalPractice  
+https://github.com/hebgehogg/TheWarofThreads  
+https://github.com/hebgehogg/EntityProject  
+https://github.com/hebgehogg/TimetableXML  
+
+<a name="Design"><h2>Design</h2></a>
+https://github.com/hebgehogg/DesignPortfolio  
+
+<a name="Python"><h2>Python</h2></a>
+https://github.com/hebgehogg/CNN  
+
+<a name="R"><h2>R</h2></a>
+https://github.com/hebgehogg/R_project  
+
+<a name="Assembler"><h2>Assembler</h2></a>
+https://github.com/hebgehogg/ASM_Pascal  
