@@ -134,7 +134,7 @@
 [CNN](https://github.com/hebgehogg/CNN)   
 
 <a name="R"><h2>R</h2></a>
-[R_project](https://github.com/hebgehogg/R_project)     
+[R_project - примеры на R](https://github.com/hebgehogg/R_project)     
 
 <a name="Assembler"><h2>Assembler</h2></a>
 [ASM_Pascal - ассемблерные вставки на Turbo Pascal](https://github.com/hebgehogg/ASM_Pascal)   
