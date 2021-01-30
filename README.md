@@ -1,10 +1,16 @@
-# Резюме \ Profile
+# Резюме \ Портфолио
 
 ##### Содержание 
-[Контактная информация \ Contacts](#Contacts)  
-[Общая информация](#General)  
+[Contacts](#Contacts)  
+[General information](#General)  
+[Objective](#Objective)  
+[Summary Of Qualification](#Qualification)  
+[Hard Skills](#Skills)  
+[Experience](#Experience)  
+[Courses completed](#Courses)  
+[Portfolio](#Portfolio)  
 
-<a name="Contacts"><h2>Контактная информация \ Contacts</h2></a>
+<a name="Contacts"><h2>Contacts</h2></a>
 - Овчинникова Алина Владимировна
 - hebgehogg@gmail.com
 - тел: +7(950) 446-12-02
@@ -14,15 +20,18 @@
 - VK: @hebgehog
 - Instagram: @hebgehogg
 
-<a name="General"><h2>Общая информация</h2></a>
+<a name="General"><h2>General informationя</h2></a>
 Учусь в НИУ "Высшая школа экономики", Москва на 3 курсе по направлению программная инженерия  
 Пермь /Москва  
 Готова к перезду в МСК  
 20 лет  
-### Цель (Objective) — C# разработчик (фронт/бэк) / Unreal Engine 4 разработчик / Аналитик
 
-## Резюме квалификации (Summary Of Qualification) 
+<a name="Objective"><h2>Objective</h2></a>
+- C# разработчик (фронт/бэк) 
+- Unreal Engine 4 разработчик 
+- Аналитик
 
+<a name="Summary Of Qualification"><h2>Qualification</h2></a>
 * Есть опыт работы (ниже будет описано подробнее)
 * В рейтинге по направлению 10/55, средний балл 8,93
 * Успешная сдача курсовых и практических работ доказывает знания ООП, С#, SQL и прочих языков.
@@ -31,7 +40,7 @@
 * Имею опыт работы в команде
 * Интересные проекты загружаю на гит: https://github.com/hebgehogg
 
-## Стек технологий / Профессиональные навыки (Hard Skills)
+<a name="Hard Skills"><h2>Skills</h2></a>
 #### Языки
 1. С# - продвинутый уровень / есть опыт разработки в компании - WPF (xaml)
 2. SQL - свободное владение (не углубленное)
@@ -65,8 +74,7 @@
 #### Дополнительно
 1. Учусь на права - AB  
 
-## Опыт (Experience)
-
+<a name="Experience"><h2>Experience</h2></a>
 #### Aerosfera / Горный институт (ГИ УрО РАН)  
 Должность: С# разработик   
 Даты начала: 20.07.2020 (по настоящий момент) - 7 месяцев  
@@ -81,8 +89,7 @@
 Технологий: HTML, PHP, CSS, JS  
 Достижения: поднятие общего уровня разработки, и опыт работы с заказчиками  
 
-## Пройденные курсы (интересные) / Additional Skills
-
+<a name="Courses completed"><h2>Courses</h2></a>
 1. Разработка игр на Unreal Engine 4 - оценка 8/10 (отлично)
 2. Обеспечение качества и тестирование - оценка 10/10 (отлично)
 3. Интеллектуальное право - оценка 9/10 (отлично)
@@ -93,4 +100,4 @@
 8. Базы данных - оценка 10/10 (отлично)
 9. Криптографические основы информационной безопасности - оценка 9/10 (отлично)
 
-# Портфолио
+<a name="Portfolio"><h1>Portfolio</h1></a>
