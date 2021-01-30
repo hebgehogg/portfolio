@@ -125,7 +125,7 @@
 [TechnologicalPractice](https://github.com/hebgehogg/TechnologicalPractice)   
 [TheWarofThreads](https://github.com/hebgehogg/TheWarofThreads)   
 [EntityProject](https://github.com/hebgehogg/EntityProject)   
-[TimetableXML](https://github.com/hebgehogg/TimetableXML)   
+[TimetableXML - XML-формат для представления расписания учебных занятий вашей группы](https://github.com/hebgehogg/TimetableXML)   
 
 <a name="Design"><h2>Design</h2></a>
 [DesignPortfolio - примеры дизайн работ](https://github.com/hebgehogg/DesignPortfolio)   
