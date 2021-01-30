@@ -122,7 +122,7 @@
 [Messages](https://github.com/hebgehogg/Messages)   
 [Zoo](https://github.com/hebgehogg/Zoo)   
 [Explorer](https://github.com/hebgehogg/Explorer)   
-[TechnologicalPractice](https://github.com/hebgehogg/TechnologicalPractice)   
+[TechnologicalPractice - технологическая практика за 2 курс](https://github.com/hebgehogg/TechnologicalPractice)   
 [TheWarofThreads - игра "the war of threads"](https://github.com/hebgehogg/TheWarofThreads)   
 [EntityProject - простой менеджер баз данных](https://github.com/hebgehogg/EntityProject)   
 [TimetableXML - XML-формат для представления расписания учебных занятий вашей группы](https://github.com/hebgehogg/TimetableXML)   
