@@ -31,7 +31,7 @@
 - Unreal Engine 4 разработчик 
 - Аналитик
 
-<a name="Summary Of Qualification"><h2>Qualification</h2></a>
+<a name="Qualification"><h2>Summary Of Qualification</h2></a>
 * Есть опыт работы (ниже будет описано подробнее)
 * В рейтинге по направлению 10/55, средний балл 8,93
 * Успешная сдача курсовых и практических работ доказывает знания ООП, С#, SQL и прочих языков.
@@ -40,7 +40,7 @@
 * Имею опыт работы в команде
 * Интересные проекты загружаю на гит: https://github.com/hebgehogg
 
-<a name="Hard Skills"><h2>Skills</h2></a>
+<a name="Skills"><h2>Hard Skills</h2></a>
 #### Языки
 1. С# - продвинутый уровень / есть опыт разработки в компании - WPF (xaml)
 2. SQL - свободное владение (не углубленное)
@@ -91,7 +91,7 @@
 Технологий: HTML, PHP, CSS, JS  
 Достижения: поднятие общего уровня разработки, и опыт работы с заказчиками  
 
-<a name="Courses completed"><h2>Courses</h2></a>
+<a name="Courses"><h2>Courses completed</h2></a>
 1. Разработка игр на Unreal Engine 4 - оценка 8/10 (отлично)
 2. Обеспечение качества и тестирование - оценка 10/10 (отлично)
 3. Интеллектуальное право - оценка 9/10 (отлично)
@@ -112,7 +112,7 @@
 [R](#R)  
 [Assembler](#Assembler)  
 
-<a name="Game development"><h2>Game</h2></a>
+<a name="Game"><h2>Game development</h2></a>
 [NeonGame - платформер](https://github.com/hebgehogg/NeonGame)  
 [Collapse - командный проект с ИИ (сильно упрощенный вариант CS GO)](https://github.com/hebgehogg/Collapse)  
 [AIShooter - небольшой шутер от 1 лица с простыми ИИ](https://github.com/hebgehogg/AIShooter)  
