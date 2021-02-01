@@ -116,6 +116,7 @@
 [Python](#Python)  
 [R](#R)  
 [Assembler](#Assembler)  
+[Hackathons](#Hackathons)
 
 <a name="Game"><h2>Game development</h2></a>
 [NeonGame - платформер](https://github.com/hebgehogg/NeonGame)  
@@ -124,6 +125,7 @@
 [GeometryCatcher - простая 2D игра](https://github.com/hebgehogg/GeometryCatcher)   
 
 <a name="C"><h2>C#</h2></a>
+[Аэросеть (участвовала в поддержании программы)](https://aeroset.net/)  
 [Messages - клиент-серверное приложение на WPF](https://github.com/hebgehogg/Messages)   
 [Zoo - этот проект демонстрирует базовые возможности C # на примере виртуального зоопарка.](https://github.com/hebgehogg/Zoo)   
 [Explorer - проводник (тестовое задание в компанию Аэросфера)](https://github.com/hebgehogg/Explorer)   
@@ -143,3 +145,6 @@
 
 <a name="Assembler"><h2>Assembler</h2></a>
 [ASM_Pascal - ассемблерные вставки на Turbo Pascal](https://github.com/hebgehogg/ASM_Pascal)   
+
+<a name="Hackathons"><h2>Hackathons</h2></a>
+1. Авиахакатон 2020
