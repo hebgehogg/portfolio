@@ -147,5 +147,5 @@
 [ASM_Pascal - ассемблерные вставки на Turbo Pascal](https://github.com/hebgehogg/ASM_Pascal)   
 
 <a name="Hackathons"><h2>Hackathons</h2></a>
-1. Авиахакатон 2020  
+1. Авиахакатон 2020
 ![Сертификат](https://github.com/hebgehogg/Profile/blob/main/Photos/AviaHackathon.pdf)
