@@ -135,6 +135,7 @@
 [TimetableXML - XML-формат для представления расписания учебных занятий вашей группы](https://github.com/hebgehogg/TimetableXML)   
 
 <a name="Design & ART"><h2>Design</h2></a>
+> На вкладке [Game development](#Game) представлены проекты и скриншоты интерфейсов.
 [Froglish - прототип приложения для тренировки произношения](https://www.figma.com/file/AcYIyPPPB3p8Y0amsEAyTP/Froglish-App?node-id=314%3A223)   
 [Лендинг к игре + иллюстрации](https://github.com/hebgehogg/DesignPortfolio)   
 
