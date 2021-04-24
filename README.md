@@ -112,7 +112,7 @@
 ##### Содержание 
 [Game development](#Game)  
 [C#](#C)  
-[Design & ART](#Design)  
+[Design](#Design & ART)  
 [Python](#Python)  
 [R](#R)  
 [Assembler](#Assembler)  
@@ -134,7 +134,7 @@
 [EntityProject - простой менеджер баз данных](https://github.com/hebgehogg/EntityProject)   
 [TimetableXML - XML-формат для представления расписания учебных занятий вашей группы](https://github.com/hebgehogg/TimetableXML)   
 
-<a name="Design & ART"><h2>Design</h2></a>
+<a name="Design"><h2>Design & ART</h2></a>
 > На вкладке [Game development](#Game) представлены проекты и скриншоты интерфейсов.
 
 [Froglish - прототип приложения для тренировки произношения](https://www.figma.com/file/AcYIyPPPB3p8Y0amsEAyTP/Froglish-App?node-id=314%3A223)   
