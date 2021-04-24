@@ -113,7 +113,7 @@
 ##### Содержание 
 [Game development](#Game)  
 [C#](#C)  
-[Design](#Design & ART)  
+[Design & ART](#Design)  
 [Python](#Python)  
 [R](#R)  
 [Assembler](#Assembler)  
