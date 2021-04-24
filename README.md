@@ -82,7 +82,7 @@
 Даты начала: 20.07.2020 (по настоящий момент)
 Описание проекта: https://aeroset.net/  
 Технологий: WPF 
-Достижения: редизайн программы Аэросеть (верстка), внедрение новых технологий в компанию   
+Достижения: редизайн программы Аэросеть (верстка), внедрение новых технологий в компанию, разработка нового ПО, создание прототипа интерфейса приложения.   
 
 #### Фриланс
 Должность: верстальщик сайтов (в основном я исправляла чужие сайты на 1C Bitrix)   
@@ -135,7 +135,8 @@
 [TimetableXML - XML-формат для представления расписания учебных занятий вашей группы](https://github.com/hebgehogg/TimetableXML)   
 
 <a name="Design"><h2>Design</h2></a>
-[DesignPortfolio - примеры дизайн работ](https://github.com/hebgehogg/DesignPortfolio)   
+[Froglish - прототип приложения для тренировки произношения](https://www.figma.com/file/AcYIyPPPB3p8Y0amsEAyTP/Froglish-App?node-id=314%3A223)   
+[Лендинг к игре](https://github.com/hebgehogg/DesignPortfolio)   
 
 <a name="Python"><h2>Python</h2></a>
 [CNN - в файлах репозитория лежат примеры из Colaboratory](https://github.com/hebgehogg/CNN)   
