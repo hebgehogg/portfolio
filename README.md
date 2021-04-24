@@ -30,6 +30,7 @@
 - C# разработчик (фронт/бэк) 
 - Unreal Engine 4 разработчик 
 - Аналитик
+- UI/UX дизайнер
 
 <a name="Qualification"><h2>Summary Of Qualification</h2></a>
 * Есть опыт работы (ниже будет описано подробнее)
@@ -137,6 +138,9 @@
 <a name="Design"><h2>Design & ART</h2></a>
 > На вкладке [Game development](#Game) представлены проекты и скриншоты интерфейсов.
 
+> Илюстрации и макеты web страницы: [art & web](https://github.com/hebgehogg/Profile/blob/main/Design.md) 
+
+#### Проекты  
 [Froglish - прототип приложения для тренировки произношения](https://www.figma.com/file/AcYIyPPPB3p8Y0amsEAyTP/Froglish-App?node-id=314%3A223)   
 [Лендинг к игре + иллюстрации](https://github.com/hebgehogg/DesignPortfolio)   
 [UX Design HSE - решение UX проблемы](https://www.figma.com/file/gQMAqLWKbAUGnZVzmSbGqn/UX-design-HSE)  
