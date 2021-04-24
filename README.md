@@ -139,6 +139,7 @@
 
 [Froglish - прототип приложения для тренировки произношения](https://www.figma.com/file/AcYIyPPPB3p8Y0amsEAyTP/Froglish-App?node-id=314%3A223)   
 [Лендинг к игре + иллюстрации](https://github.com/hebgehogg/DesignPortfolio)   
+[UX Design HSE - решение UX проблемы](https://www.figma.com/file/gQMAqLWKbAUGnZVzmSbGqn/UX-design-HSE)  
 
 <a name="Python"><h2>Python</h2></a>
 [CNN - в файлах репозитория лежат примеры из Colaboratory](https://github.com/hebgehogg/CNN)   
