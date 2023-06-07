@@ -4,6 +4,7 @@
 - Овчинникова Алина Владимировна
 - hebgehogg@gmail.com
 - тел: +7(950) 446-12-02
+- Linkedin: https://www.linkedin.com/in/hebgehog/
 - Telegram: @hebgehog
 - VK: @hebgehog
 - Instagram: @hebgehogg
