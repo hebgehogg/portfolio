@@ -28,4 +28,3 @@
 ![](https://github.com/hebgehogg/Profile/blob/main/Photos/white_hands.png)
 ![](https://github.com/hebgehogg/Profile/blob/main/Photos/art3.png)
 ![](https://github.com/hebgehogg/Profile/blob/main/Photos/art1.png)
-![](https://github.com/hebgehogg/Profile/blob/main/Photos/art2.png)
